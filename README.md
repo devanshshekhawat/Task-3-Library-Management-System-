@@ -8,7 +8,7 @@ The system allows you to:
 * Return books to library
 * View list of books and users
 
-🏗 Classes Used
+Classes Used :-
 1. Book
 Represents a single book in the library.
 Fields: id, title, author, isIssued
@@ -34,7 +34,7 @@ returnBook(int bookId, int userId)
 Contains the main() method to run the program.
 Adds sample data (books and users) and demonstrates issue/return operations.
 
-⚙️ How It Works
+How It Works :-
 
 Add books and users to the library.
 Display the current list of books and users.
